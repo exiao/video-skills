@@ -11,7 +11,7 @@ For visual exploration, use generated media and storytelling (external resource;
 
 ## Still-image generation
 
-For still-image generation and editing, follow $image-generation-guide (external resource; not included). Keep this skill's creative requirements.
+For still-image generation and editing, follow [$image-generation-guide](../image-generation-guide/SKILL.md). Keep this skill's creative requirements.
 
 For a product journey, start from one person and one situation. State the people problem and design question in plain language. Describe a functional, emotional, or social need before naming a solution. Reuse supplied research, label material claims with source IDs and confidence, and distinguish an imagined scenario from an observed customer story. A dogfood pass can support product-behavior claims, not customer sentiment. For an animation concept, start from the intended takeaway, opening hook, causal progression, and payoff; an abstract diagram or metaphor does not need an invented persona or product encounter.
 

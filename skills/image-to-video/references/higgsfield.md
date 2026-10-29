@@ -1,6 +1,6 @@
 # Higgsfield CLI image-to-video
 
-Read the installed [higgsfield-generate](~/.codex/skills/higgsfield-generate/SKILL.md) skill and its media-input reference for current model modes. The CLI is a paid or separately metered route; website Unlimited access does not imply CLI allowance.
+Read the installed higgsfield-generate (external resource; not included) skill and its media-input reference for current model modes. The CLI is a paid or separately metered route; website Unlimited access does not imply CLI allowance.
 
 Check CLI and account state without printing credentials:
 

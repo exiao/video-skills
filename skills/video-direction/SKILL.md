@@ -21,7 +21,7 @@ For side-by-side product or model demos, use comparison-demo packaging (external
 
 For a cinematic ad built on a dramatic analogy (external resource; not included), direct the visible wrong action and the character's recognition of it before the final interface or brand reveal. Use framing, reaction time, and a concrete prop or screen to make the product's causal role legible. Check both the full film and any placement cutdown; the reference's long runtime and delayed mark are creative choices to test, not defaults.
 
-For still-image generation and editing, follow $image-generation-guide (external resource; not included). Keep this skill's creative requirements.
+For still-image generation and editing, follow [$image-generation-guide](../image-generation-guide/SKILL.md). Keep this skill's creative requirements.
 
 When the deliverable is **start and end frames for image-to-video**, deliver each shot's start and end as separate, full-frame image files at the intended aspect ratio and matching dimensions. Keep camera axis, subject scale, identity, lighting, and persistent props aligned while changing only the directed action or state. A side-by-side sheet is useful for review but is not itself a pair of image-to-video inputs. Inspect both exported files individually, record their paths under the shot ID, and check whether the selected animator actually accepts both endpoints before calling the pair production-ready.
 
@@ -64,4 +64,4 @@ For a weak take or generic-looking frame, diagnose model fit, visual decisions, 
 
 ## Optional production roles
 
-For a substantial production or a request for separate story, creative, and technical reviews, use [production coordination](references/production-coordination.md). Keep direction and canonical-document ownership in the main task. Load only the role briefs needed for a bounded assignment; they are not mandatory stages or separately configured agents. A small edit can use [$video-editor](../video-editor/SKILL.md) directly, and script or audiovisual critique belongs with $creative-review (external resource; not included). Standalone article critique belongs with $writing-review (external resource; not included).
+For a substantial production or a request for separate story, creative, and technical reviews, use [production coordination](references/production-coordination.md). Keep direction and canonical-document ownership in the main task. Load only the role briefs needed for a bounded assignment; they are not mandatory stages or separately configured agents. A small edit can use [$video-editor](../video-editor/SKILL.md) directly, and script or audiovisual critique belongs with [$creative-review](../creative-review/SKILL.md). Standalone article critique belongs with $writing-review (external resource; not included).

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Animation Explainer"
+  short_description: "Understand concepts through simple step-by-step animations"
+  default_prompt: "Use $animation-explainer to explain this hyper intuitively from the bottom up with the simplest step-by-step animations so I really understand it concretely."
