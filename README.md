@@ -12,6 +12,7 @@ They are designed for skill-aware agents such as Codex, Claude Code, and Hermes 
 
 | Stage | Skill | What it does |
 |---|---|---|
+| Story | [launch-posts](skills/launch-posts/) | Create a product announcement and composed video grounded in the real release. |
 | Story | [video-script](skills/video-script/) | Shape the narrative, narration, dialogue, scene structure, and timing. |
 | Story | [character-creation](skills/character-creation/) | Create reusable fictional characters and reference assets for a series. |
 | Story | [storyboards](skills/storyboards/) | Turn a story or product journey into illustrated boards with a clear visual direction. |
@@ -19,12 +20,14 @@ They are designed for skill-aware agents such as Codex, Claude Code, and Hermes 
 | Direction | [reference-style-video](skills/reference-style-video/) | Analyze a reference video and carry its useful visual and timing mechanisms into a new piece. |
 | Creation | [animation-explainer](skills/animation-explainer/) | Teach a concept through step-by-step visual explanations. |
 | Creation | [image-generation-guide](skills/image-generation-guide/) | Brief, generate, and inspect still images for visual assets and keyframes. |
+| Creation | [claude-cli](skills/claude-cli/) | Delegate animation and design work to Claude Code and verify the result. |
 | Creation | [animation-creator](skills/animation-creator/) | Build and revise animations, motion graphics, and explainers using Claude and an appropriate renderer. |
 | Creation | [image-to-video](skills/image-to-video/) | Animate a still image into a video clip with an appropriate generation tool. |
 | Creation | [camera-3d-captions](skills/camera-3d-captions/) | Place captions in 3D space around a speaker and choreograph the camera. |
 | Creation | [vox-explainer](skills/vox-explainer/) | Build a collage-style explainer from a topic or source material. |
 | Finishing | [video-editor](skills/video-editor/) | Assemble footage, transitions, captions, and audio with local editing tools. |
 | Finishing | [sound-storytelling](skills/sound-storytelling/) | Plan and review dialogue, effects, atmosphere, music, and silence against the shots. |
+| Finishing | [content-iteration](skills/content-iteration/) | Carry creative feedback through revised artifacts and re-review. |
 | Finishing | [creative-review](skills/creative-review/) | Review a video’s concept, execution, and payoff with concrete revision notes. |
 | Research | [yt-dlp](skills/yt-dlp/) | Inspect and retrieve online media and subtitle tracks for reference research. |
 | Finishing | [thumbnail](skills/thumbnail/) | Find or create a clear, truthful cover frame for a video. |

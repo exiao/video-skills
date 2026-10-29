@@ -7,7 +7,7 @@ description: Create illustrated storyboards for product journeys and animation c
 
 ## Generated media in this workflow
 
-For visual exploration, use generated media and storytelling (external resource; not included) to make the human situation and changed outcome visible through composition, recurring subjects, and purposeful transformations. Keep character, setting, and product references consistent between panels; show the transition rather than relying on captions to explain missing causality. If the storyboard will guide motion, identify the anchor states for video-direction. An explicitly ASCII/text-only storyboard stays text-only. A storyboard is a human decision surface, not automatic approval to generate the finished film.
+For visual exploration, use [generated media and storytelling](../shared-video-references/creative-exploration.md#generated-media-and-storytelling) to make the human situation and changed outcome visible through composition, recurring subjects, and purposeful transformations. Keep character, setting, and product references consistent between panels; show the transition rather than relying on captions to explain missing causality. If the storyboard will guide motion, identify the anchor states for video-direction. An explicitly ASCII/text-only storyboard stays text-only. A storyboard is a human decision surface, not automatic approval to generate the finished film.
 
 ## Still-image generation
 

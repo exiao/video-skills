@@ -7,7 +7,7 @@ description: Develop video visual treatments, shot lists, camera and lighting pl
 
 ## Generated media in this workflow
 
-For visual design, launch, or mixed-media briefs, proactively explore the treatments in generated media and storytelling (external resource; not included): a story-bearing still, a composited loop, or a continuous transformation between states. Direct the actual start/end compositions, subject invariants, motion, and layout relationship; test the hardest transition before coverage. Keep baked background effects distinct from real-time interaction and inspect actual joins and playback. Carry Content Factory's human creative checkpoints (external resource; not included) through direction and generation handoffs; ordinary take iteration within an accepted treatment does not reopen selection.
+For visual design, launch, or mixed-media briefs, proactively explore the treatments in [generated media and storytelling](../shared-video-references/creative-exploration.md#generated-media-and-storytelling): a story-bearing still, a composited loop, or a continuous transformation between states. Direct the actual start/end compositions, subject invariants, motion, and layout relationship; test the hardest transition before coverage. Keep baked background effects distinct from real-time interaction and inspect actual joins and playback. Carry Content Factory's human creative checkpoints (external resource; not included) through direction and generation handoffs; ordinary take iteration within an accepted treatment does not reopen selection.
 
 ## Direction and production
 
@@ -17,7 +17,7 @@ For an open concept brief, use concept development and selection (external resou
 
 For social and launch videos, apply packaging and attention (external resource; not included): compose the title/cover and first second before investing in later shots. Direct a visible reason to pause and a concrete next beat. Test the opening at phone size and muted; reject an attractive frame whose subject, tension, or promised payoff is unclear.
 
-For side-by-side product or model demos, use comparison-demo packaging (external resource; not included) to direct a readable working area, identifiable subjects, first meaningful action, and visible divergence/payoff. Choose an unusual challenge only when it reveals something useful or entertaining; preserve the integrity of any claimed comparison.
+For side-by-side product or model demos, use [comparison-demo packaging](../shared-video-references/comparison-demo-packaging.md) to direct a readable working area, identifiable subjects, first meaningful action, and visible divergence/payoff. Choose an unusual challenge only when it reveals something useful or entertaining; preserve the integrity of any claimed comparison.
 
 For a cinematic ad built on a dramatic analogy (external resource; not included), direct the visible wrong action and the character's recognition of it before the final interface or brand reveal. Use framing, reaction time, and a concrete prop or screen to make the product's causal role legible. Check both the full film and any placement cutdown; the reference's long runtime and delayed mark are creative choices to test, not defaults.
 

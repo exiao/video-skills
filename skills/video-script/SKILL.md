@@ -11,7 +11,7 @@ When scripting and direction are both requested, maintain one production documen
 
 For social and launch videos, read packaging and attention (external resource; not included) before writing the body. Establish a title/cover promise and a first-second action, then specify what earns the next five and ten seconds and where the promise pays off. Allocate writing and revision effort in that priority order; chronological product setup is not the default story. Carry these decisions in the existing script rather than a separate template.
 
-For comparison-demo concepts, use comparison-demo packaging (external resource; not included). Define the task, what difference the viewer can observe, and the payoff before adding setup. Distinguish a playful challenge from a measured capability or speed test; retain necessary qualifications in the script.
+For comparison-demo concepts, use [comparison-demo packaging](../shared-video-references/comparison-demo-packaging.md). Define the task, what difference the viewer can observe, and the payoff before adding setup. Distinguish a playful challenge from a measured capability or speed test; retain necessary qualifications in the script.
 
 When the story is still open, try developing a scene from a specific observation. See how the curse incident grew into a story (external resource; not included). Make a small trial to see what interests you before writing the full plot. Keep an approved story.
 
@@ -31,7 +31,7 @@ This skill writes and revises planning artifacts. It does not generate footage, 
 
 ## Generated media in this workflow
 
-When visuals can carry the idea, use generated media and storytelling (external resource; not included) to write a concrete visible transformation or reveal before adding narration. Specify what viewers understand from the image/action itself and what still needs words. Distinguish generated illustration from real product demonstration in each source directive. Preserve a selected silent treatment; scripting is not a reason to add voiceover. Under Content Factory, unresolved premise or medium choices return to its human creative checkpoints (external resource; not included); this does not authorize footage generation for a script-only request.
+When visuals can carry the idea, use [generated media and storytelling](../shared-video-references/creative-exploration.md#generated-media-and-storytelling) to write a concrete visible transformation or reveal before adding narration. Specify what viewers understand from the image/action itself and what still needs words. Distinguish generated illustration from real product demonstration in each source directive. Preserve a selected silent treatment; scripting is not a reason to add voiceover. Under Content Factory, unresolved premise or medium choices return to its human creative checkpoints (external resource; not included); this does not authorize footage generation for a script-only request.
 
 ## Saved PDF references
 

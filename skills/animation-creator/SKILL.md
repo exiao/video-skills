@@ -9,7 +9,7 @@ Turn a concept or reference into a finished animation. Use Claude CLI for implem
 
 ## Generated media in this workflow
 
-Use generated media and storytelling (external resource; not included) when generated illustrations, physical motion, materials, or atmosphere better express the piece than code-only primitives. Combine those assets with code for precise typography, controls, compositing, or timeline interaction; retain an explicitly requested procedural or offline implementation. Establish the keyframe and short motion sample before coding the full sequence. When Content Factory coordinates the work, its human creative checkpoints (external resource; not included) also bind Claude and other delegated makers: preparing a rough option is allowed, committing to an unselected direction is not.
+Use [generated media and storytelling](../shared-video-references/creative-exploration.md#generated-media-and-storytelling) when generated illustrations, physical motion, materials, or atmosphere better express the piece than code-only primitives. Combine those assets with code for precise typography, controls, compositing, or timeline interaction; retain an explicitly requested procedural or offline implementation. Establish the keyframe and short motion sample before coding the full sequence. When Content Factory coordinates the work, its human creative checkpoints (external resource; not included) also bind Claude and other delegated makers: preparing a rough option is allowed, committing to an unselected direction is not.
 
 ## Understand the piece
 
@@ -55,7 +55,7 @@ Keep an existing project stack or an explicitly requested native format. Otherwi
 
 These are options, not required dependencies. Use installed tools where possible. Single-file HTML is convenient for small self-contained pieces, but assets, libraries, multiple files, and native projects are allowed when useful. Honor an explicit code-only or offline requirement. Use media-generation skills when needed for assets or footage; do not substitute generated footage for a requested procedural renderer or assume permission for paid generation.
 
-Use the installed claude-cli skill (external resource; not included) for model, effort, authentication, resume, and delegation conventions. Supply the relevant source/reference paths, concrete write boundaries, visual and motion brief, output contracts, and verification requirements. Ask Claude to build and inspect artifacts, not merely explain how. Preserve user-selected tools and models.
+Use the installed [claude-cli skill](../claude-cli/SKILL.md) for model, effort, authentication, resume, and delegation conventions. Supply the relevant source/reference paths, concrete write boundaries, visual and motion brief, output contracts, and verification requirements. Ask Claude to build and inspect artifacts, not merely explain how. Preserve user-selected tools and models.
 
 When testing an “all made with Claude” claim, distinguish **Claude authoring code** from direct video generation. State which renderer, encoder, audio tools, assets, and outside services actually produced the file. Do not describe local FFmpeg or browser rendering as model-native video generation. A no-external-generation brief can still use installed local software and self-authored assets; keep it offline when that is part of the test.
 

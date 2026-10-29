@@ -15,7 +15,7 @@ Inspect the supplied artifact and relevant brief before judging it: read the com
 
 ## Generated media in this workflow
 
-For generated visual work, apply generated media and storytelling (external resource; not included) to judge the specific scene, relationship, transformation, or reveal. Preserve deliberate atmosphere, wonder, humor, and emotional storytelling when they serve the brief; nonfunctional does not mean unnecessary. Identify generic spectacle and claims the media falsely implies. Inspect in-context imagery and actual motion as appropriate, separating strong keyframes from successful continuity/playback. An agent's keep verdict does not replace the user's answer at Content Factory's human creative checkpoints (external resource; not included).
+For generated visual work, apply [generated media and storytelling](../shared-video-references/creative-exploration.md#generated-media-and-storytelling) to judge the specific scene, relationship, transformation, or reveal. Preserve deliberate atmosphere, wonder, humor, and emotional storytelling when they serve the brief; nonfunctional does not mean unnecessary. Identify generic spectacle and claims the media falsely implies. Inspect in-context imagery and actual motion as appropriate, separating strong keyframes from successful continuity/playback. An agent's keep verdict does not replace the user's answer at Content Factory's human creative checkpoints (external resource; not included).
 
 ## Attention review for social video
 
@@ -27,7 +27,7 @@ For a reveal-led piece, ask: does the reveal change how we understand the openin
 
 Use headline and preview guidance (external resource; not included) and, when supplied, cover guidance (external resource; not included). Check the promised result against the complete body, specifics against evidence, and completeness claims against actual scope. Review the whole card at feed size when available; state when layout is only approximate. Compare alternative framings without treating question marks, particular words, or move counts as automatic defects. Read source limits (external resource; not included) before making performance claims; stylistic scores and selected-success examples cannot establish likely reach.
 
-For side-by-side demos, use comparison-demo packaging (external resource; not included). Inspect the first meaningful action, phone-size working area, visible divergence, and delivered result. Check whether edited alignment or removed waits misrepresent speed or fairness. Creator-reported reach and screenshot critiques do not prove a causal improvement or continuous playback.
+For side-by-side demos, use [comparison-demo packaging](../shared-video-references/comparison-demo-packaging.md). Inspect the first meaningful action, phone-size working area, visible divergence, and delivered result. Check whether edited alignment or removed waits misrepresent speed or fairness. Creator-reported reach and screenshot critiques do not prove a causal improvement or continuous playback.
 
 ## Shared review core
 

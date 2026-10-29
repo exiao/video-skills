@@ -11,7 +11,7 @@ This skill owns frame selection and still-image design. Use a video-editing skil
 
 ## Generated media in this workflow
 
-Use generated media and storytelling (external resource; not included) when a custom image can express the video's specific tension or reveal more clearly than an extracted frame. Preserve the selected visual language between cover and film; a polished cover must not promise a scene or result the video cannot deliver. Show the cover with the opening and payoff when that comparison informs the human direction choice. Do not expand a cover-only request into video production.
+Use [generated media and storytelling](../shared-video-references/creative-exploration.md#generated-media-and-storytelling) when a custom image can express the video's specific tension or reveal more clearly than an extracted frame. Preserve the selected visual language between cover and film; a polished cover must not promise a scene or result the video cannot deliver. Show the cover with the opening and payoff when that comparison informs the human direction choice. Do not expand a cover-only request into video production.
 
 ## Develop the packaging before the body
 
