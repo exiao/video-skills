@@ -1,0 +1,3 @@
+interface:
+  display_name: "Image to Video"
+  short_description: "Animate a still with a browser or video model and verify the clip"

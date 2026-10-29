@@ -1,0 +1,4 @@
+interface:
+  display_name: "Animation Creator"
+  short_description: "Create animations in any style with Claude CLI"
+  default_prompt: "Use $animation-creator to create and verify an animation from my concept or reference, delivering the requested video or interactive format."

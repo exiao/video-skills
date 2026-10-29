@@ -1,0 +1,38 @@
+---
+name: video-script
+description: Write video story concepts, narrative structure, dialogue, narration, and scene scripts with sources, caption text, and estimated timing. Use for scripting and spoken-copy revisions; camera treatment, shot lists, and generation prompts belong to video-direction.
+---
+
+# Video script
+
+Match the requested scripting depth. For a production script, use relevant global metadata and timed scene blocks; for a dialogue rewrite or story concept, deliver that smaller artifact. Own narrative structure, stable scene IDs, dialogue and narration, factual claims and sources, caption text, and estimated scene timing. Describe what viewers must see to understand each beat, with a concrete source or capture method. Include delivery intent and story continuity when useful; detailed framing, lighting, camera movement, shot breakdown, and take selection belong to direction. For timed deliverables, keep timecodes continuous and within the target duration; label estimates until an actual read-through or recording verifies them.
+
+When scripting and direction are both requested, maintain one production document: scene sections hold the authoritative spoken copy, and shot records are added beneath their parent scenes. Keep scene IDs stable across revisions and identify affected shots when copy or timing changes. Use [$video-direction](../video-direction/SKILL.md) only when the request needs visual treatment or shot planning; a script does not require that handoff. For a finished-video request, use the applicable production workflow rather than treating the script as the finished deliverable.
+
+For social and launch videos, read packaging and attention (external resource; not included) before writing the body. Establish a title/cover promise and a first-second action, then specify what earns the next five and ten seconds and where the promise pays off. Allocate writing and revision effort in that priority order; chronological product setup is not the default story. Carry these decisions in the existing script rather than a separate template.
+
+For comparison-demo concepts, use comparison-demo packaging (external resource; not included). Define the task, what difference the viewer can observe, and the payoff before adding setup. Distinguish a playful challenge from a measured capability or speed test; retain necessary qualifications in the script.
+
+When the story is still open, try developing a scene from a specific observation. See how the curse incident grew into a story (external resource; not included). Make a small trial to see what interests you before writing the full plot. Keep an approved story.
+
+Choose the structure from the message and audience. Short-form scripts need a clear opening beat, one idea per spoken beat, visual change or emphasis, and a specific ending. Long-form scripts need a promise, escalating sections, rehooks, proof/examples, and a resolved ending. Narrative films follow character wants, obstacles, choices, and earned change; do not force a social hook or CTA onto them.
+
+For a narrative ad that remakes a recognizable story, use the cultural-reference mapping (external resource; not included): identify what viewers already know, map the source's roles and conflict to the product, and preserve the beats that make the reference legible. Write the new cause and consequence around a real product capability. For a technical failure, dramatize the difference between the person's intent and the action taken before explaining the jargon.
+
+For AI-led social scripts, apply AI creative judgment (external resource; not included): prioritize Eric's comedy/education lanes without overriding a selected genre. Write an actual setup, turn, and payoff for comedy, or a concrete question, worked explanation, and takeaway for education. Narrative emotion should follow wants, choices, consequences, and specific behavior. Keep documentary or first-person claims grounded; clearly framed fiction need not pretend it happened. Judge a rough read-through or beat sequence before multiplying shots. Preserve pauses and reaction beats that carry meaning instead of cramming dialogue into generation duration limits.
+
+Sources: [Veo 3 Gold Rush (2025-05-23)](https://pjace.beehiiv.com/p/don-t-miss-the-veo-3-gold-rush) supplies the expectation/reversal example; [Hellgrind and Mork breakdown (2026-04-25)](https://pjace.beehiiv.com/p/you-re-using-seedance-2-0-wrong-try-this-massive-time-saver-instead) discusses screenplay development and breathing room in dialogue. These are creator accounts, not controlled performance evidence. The comedy/education default and authenticity safeguards are Eric’s preference and our editorial synthesis, not findings proved by these posts.
+
+Ask only for material missing choices such as platform, duration, or tone. If the user supplied enough context, proceed. Every scene needs a usable source directive; never leave `TBD`, “stock footage,” or “show the product” without a concrete description. Keep factual claims sourced or mark them for research. Write dialogue aloud when possible and flag lines that are hard to say.
+
+When the creator has past videos, build or read their [creator style guide](references/creator-style-guide.md) before writing, and match their own phrasing and timing over generic hook patterns.
+
+This skill writes and revises planning artifacts. It does not generate footage, edit media, publish, or purchase assets unless that work is included in the current request or existing authorization. Use [references/scene-schema.md](references/scene-schema.md) for the output fields and [references/structure-and-retention.md](references/structure-and-retention.md) for format choices. For short-form openings, read [references/short-form-hooks.md](references/short-form-hooks.md) to pair the spoken hook with a first-frame intention and an honest payoff.
+
+## Generated media in this workflow
+
+When visuals can carry the idea, use generated media and storytelling (external resource; not included) to write a concrete visible transformation or reveal before adding narration. Specify what viewers understand from the image/action itself and what still needs words. Distinguish generated illustration from real product demonstration in each source directive. Preserve a selected silent treatment; scripting is not a reason to add voiceover. Under Content Factory, unresolved premise or medium choices return to its human creative checkpoints (external resource; not included); this does not authorize footage generation for a script-only request.
+
+## Saved PDF references
+
+For a comedy brief, consult the Comedy 101 mechanisms and examples in these PDF notes; for packaging and retention, consult the MrBeast page pointers alongside the existing attention workflow. Preserve genre and choose relevant techniques rather than forcing every script to be a joke. Read source notes (external resource; not included).

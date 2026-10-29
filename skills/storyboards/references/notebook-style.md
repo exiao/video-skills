@@ -1,0 +1,7 @@
+# Optional notebook preset
+
+Use this preset when notebook styling is selected in the task or [editable style profile](visual-style.md). It is a starting point, not a fixed requirement. User references and edited profile settings can change its palette, paper, linework, shading, typography, or layout:
+
+> Hand-drawn sketch on a warm off-white cream page with a faint light-gray dot grid, like a bullet journal. Fine-point fineliner linework, clean and controlled with a subtle human wobble. Exactly two ink colors: matte black for outlines and royal blue for accents and labels. Outline-only rendering, no gradients, drop shadows, or shaded fills; sparse short hatch marks only where useful. Neat, legible print handwriting with a spaced uppercase title and short mixed-case labels. Thin single-stroke leaders and hand underlines. Generous margins, whitespace, and grid-aligned composition. Flat top-down notebook scan, even lighting, no perspective distortion.
+
+A three-by-two grid with rounded frames is one option for six panels; follow the selected layout. Keep recurring subjects consistent and use emphasis where it helps the action read. Give labels explicitly, such as `1. Before work`, rather than asking the generator to invent text. Keep labels to a few words. Simplify incidental UI when appropriate, and specify exact essential screen content. Preserve successful composition and subjects when correcting a label or action.

@@ -1,0 +1,4 @@
+numpy==2.5.4
+pedalboard==0.9.26
+pillow==13.0.0
+scipy==1.18.1

@@ -1,0 +1,12 @@
+{
+  "name": "rari-motion-recreation",
+  "version": "1.0.0",
+  "description": "HTML texture renderer for the editable Clawd Blender animation",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^25.14.0"
+  }
+}

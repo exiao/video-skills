@@ -1,0 +1,31 @@
+/* Dark After Effects-style theme. All geometry is set from build/timeline.json in ui.js. */
+html, body { margin: 0; padding: 0; background: #1b1b1b; overflow: hidden; }
+#ws {
+  position: relative; width: 1280px; height: 720px; background: #1b1b1b; overflow: hidden;
+  font-family: "SF Pro Text", -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif;
+  color: #b5b5b5; -webkit-font-smoothing: antialiased; text-rendering: geometricPrecision;
+}
+#ws div { position: absolute; box-sizing: border-box; }
+.t { white-space: nowrap; }
+.ic { display: flex; align-items: center; justify-content: center; }
+.ic svg { display: block; overflow: visible; }
+
+.panel { background: #232323; border-radius: 3px; overflow: hidden; }
+.hdr { background: #2a2a2a; }
+.sep { background: #111; }
+.field { background: #1a1a1a; border: 1px solid #333; border-radius: 9px; }
+.dd { border: 1px solid #3a3a3a; border-radius: 2px; background: #262626; }
+
+/* toolbar + preview keycaps */
+.cap { background: #2e2e2e; border: 1px solid #3b3b3b; border-radius: 3px; color: #c9c9c9; }
+.cap.on { background: #2d8ceb; border-color: #2d8ceb; color: #ffffff; }
+.cap .flyout { position: absolute; right: 2px; bottom: 2px; width: 0; height: 0;
+  border-left: 3px solid transparent; border-bottom: 3px solid currentColor; opacity: .7; }
+
+/* Effects & Presets Glow row */
+#glowbar { background: transparent; }
+#glowbar.on { background: #2d8ceb; }
+.glowrow { color: #d6d6d6; }
+.glowrow.on { color: #ffffff; }
+
+.tc { color: #2d8ceb; }
